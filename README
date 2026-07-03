@@ -1,8 +1,22 @@
-Hello there! My name is Maria Coello
+Hello, I'm Maria 👋
 
-Currently: Training models and building data pipelines in a production ML program
-Building toward: ML Engineer role at Apple
+ML Engineer at Apple | Seattle, WA
 
-🔭 Projects: RAG systems, NLP classifiers, on-device ML with Core ML
-📚 Studying: Deep Learning Specialization, PyTorch, MLOps
-🍎 Currently at Apple | Swift iOS | AWS AI Practitioner
+I work on production AI systems: data pipelines, motion detection models, and LLM-powered tooling. 
+
+Previously an Apple Creative and ISE Trainer. Now building the engineering side.
+
+
+What I'm building:
+
+- 🔍 RAG evaluation pipeline — retrieval metrics + feedback loops
+- 🧠 On-device NLP with Core ML + coremltools
+- ♿ Accessibility text simplifier fine-tuned on Simple English Wikipedia
+- 📊 ML data validator for pipeline quality checks
+
+
+Stack
+
+Python · PyTorch · Swift · Core ML · LangChain · ChromaDB
+Hugging Face · Gradio · scikit-learn · CLIP · FaceNet · Swift · Java
+
