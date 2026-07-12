@@ -4,8 +4,7 @@
 
 **ML Engineer at Apple** · Seattle, WA
 
-I work on production AI systems: data pipelines, motion detection models, and LLM-powered tooling.
-Previously an Apple Creative and ISE Trainer — now building the engineering side.
+I care about technology that actually holds up when someone leans on it, especially people who get overlooked in how this stuff usually gets built. That's why I test instead of assume, and why accessibility keeps showing up in my work. These projects are me growing into that, one at a time, still figuring a lot of it out.
 
 </div>
 
