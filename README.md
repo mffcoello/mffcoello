@@ -43,20 +43,9 @@ Previously an Apple Creative and ISE Trainer — now building the engineering si
 
 ---
 
-### 📈 GitHub stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mffcoello&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mffcoello&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mayfco@icloud.com)
+[![LinkedIn](https://www.linkedin.com/in/mayfness/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:coello.mf@gmail.com)
 
 </div>
